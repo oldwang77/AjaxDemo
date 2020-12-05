@@ -1,0 +1,2 @@
+# AjaxDemo
+ 整合了一下springboot和ajax前后端分离的一个小demo，可以快速构建简单springboot项目
